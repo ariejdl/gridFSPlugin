@@ -1,0 +1,1 @@
+GET     /web-api/images/:id		controllers.AController.getImage(id: String)
